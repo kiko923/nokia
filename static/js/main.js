@@ -1130,7 +1130,7 @@
                     })),
                     this.weappModal.setContent(
                       "<div style=\"width: 100%; text-align: center;\"><img style='width: 100%; max-width: 300px;' src=".concat(
-                        "https://cdn.jsdelivr.net/gh/dcalsky/zzkia/api/images/weapp.jpg",
+                        "https://cdn.jsdelivr.net/gh/kiko923/Shortcuts/images/icon.jpeg",
                         '/ alt="QRcode"></div>'
                       )
                     ),
